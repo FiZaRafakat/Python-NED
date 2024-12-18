@@ -8,7 +8,7 @@
 
    |
 
-  => Object Oriented Programming(Advanced Python , Implement Procedural Programming)
+  => Object Oriented Programming(Advanced Python , Implement Procedural Programming)(encapsulate functions in a class)(Procedural Programming encapsulate here)
 
 ### Elements in OOP
 
