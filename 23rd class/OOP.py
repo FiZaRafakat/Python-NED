@@ -16,8 +16,10 @@ class Car:
     color = "White"
     engine = '680cc'
     def CarDetails(self):
-        print(f"BrandName : {self.brand}\n CarName : {self.name}")
+        print(f"BrandName : {self.brand}  \nCarName : {self.name}  \nSpped : {self.speed}  \nColor : {self.color}\n Engine : {self.engine}")
 
+car1 = Car()
+car1.CarDetails()
 
 '''Calculate area of circle with OOPs
 must use constructor
