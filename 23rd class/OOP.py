@@ -21,6 +21,21 @@ class Car:
 car1 = Car()
 car1.CarDetails()
 
+'''What if i create more than one brand/cars , then defining class in every time for brand call is a tricky way , and therefore , we use constructor'''
+
+class Car:
+    def __init__(self,brand, name, speed, color, engine):
+        self.brand = brand
+        self.name = name 
+        self.spped = speed 
+        self.color = color 
+        self.engine = engine
+    def CarDetails(self):
+        print(f"BrandName : {self.brand}  \nCarName : {self.name}  \nSpped : {self.speed}  \nColor : {self.color}\n Engine : {self.engine}")
+
+car1 = Car("Toyota","Fortuner",350,"Black","280cc")
+car1.CarDetails()
+
 '''Calculate area of circle with OOPs
 must use constructor
 '''
