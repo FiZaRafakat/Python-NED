@@ -48,11 +48,9 @@ Why do we need ot use them ?
 # p1.set_age(15)
 # print(p1.get_age())
 
-
 #with using decorators 
 # @property ---> Built-in decorators of python
 # @<attribute>.setter ---> Built-in setter of pyhton
-
 class Person:
     def __init__ (self, name, age):
         self.name = name 
