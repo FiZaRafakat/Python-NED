@@ -32,7 +32,7 @@ R
 list         yes          yes        yes
 string       no           yes        yes
 dictionary   yes          no         yes
-set          no           yes        no
+set          no           no          no
 '''
 
 '''Q5 : Create a library management system using a nested dictionary where:
