@@ -37,7 +37,7 @@ This course emphasized Python's core concepts while also introducing tools for v
 
 ## Adding Shared Files 🛠️
 
-This repository also includes files shared by our instructors for practice and reference:  
+This repository also includes files shared by our instructors **Miss Areeba Jamshed** for practice and reference:  
 
 - [RESOURCES](https://github.com/FiZaRafakat/Python-NED/tree/main/Resources)  
 - [Code Files](https://github.com/FiZaRafakat/Python-NED/tree/main/python%20code%20files)  
