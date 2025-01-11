@@ -39,8 +39,8 @@ This course emphasized Python's core concepts while also introducing tools for v
 
 This repository also includes files shared by our instructors for practice and reference:  
 
-- [Instructor's File 1](https://classroom.google.com/c/NzM1NjczNjE0MTEz?hl=en_GB&pli=1)  
-- [Instructor's File 2](./path-to-file2)  
+- [RESOURCES](https://github.com/FiZaRafakat/Python-NED/tree/main/Resources)  
+- [Code Files](https://github.com/FiZaRafakat/Python-NED/tree/main/python%20code%20files)  
 
 These files are integral to understanding specific concepts and are added here for easy access.  
 
